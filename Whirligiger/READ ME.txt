@@ -1,0 +1,11 @@
+Follow these instructions before starting the script !
+Not everyone's computer has the same folder pathway so lets adjust the script's directory to this folder !
+
+1. Open whirligiger.ahk in an editor of your choosing.
+2. Look for the two lines of code marked by "; ########################## CHANGE FILE DIRECTORY".
+3. Change the file directory to this folder's pathway along with the file names.
+4. Once you're done. Save and you're ready to use Whirligiger !
+
+Example:
+C:\Users\alex\OneDrive\Documents\Whirligiger\catchWhirligig2.png (required)
+C:\Users\alex\OneDrive\Documents\Whirligiger\instructions.png (optional)
